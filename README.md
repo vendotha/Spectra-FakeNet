@@ -41,4 +41,4 @@ The blur test is the clearest evidence for the design. Blur suppresses the fine 
 
 ## Author
 
-Buvananand Vendotha, Department of Computer Science and Engineering, MVSR Engineering College, Hyderabad
+Buvananand Vendotha
